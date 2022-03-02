@@ -1,0 +1,51 @@
+tr, td {
+    padding: 20px;
+    border: 20px solid black;
+    color: black;
+    background-color: whitesmoke;
+    border-color: blueviolet;
+    font-size: 1cm;
+}
+th {
+    color: black;
+    padding: 10px;
+    border: 2px solid black;
+}
+body{
+   background-blend-mode: darken;
+}
+.header{
+    background-color: blueviolet;
+}
+.Video-section{
+    align-content: center;
+    background-color: teal;
+    margin: 470px;
+    margin-top: 0.5cm;
+}
+h4{
+    color: cornsilk;
+    font-weight: bold;
+    font-size: 1cm;
+    text-decoration: underline;
+}
+#table{
+    margin-top: 1cm;
+    margin-left: 7cm;
+    padding-bottom: 10cm;
+}
+.bg{
+    margin-left: 0.5cm;
+    background-image: url(mybackground.jpg);
+    background-repeat: no-repeat;
+    background-origin: border-box;
+}
+body{
+    background-color: teal;
+}
+.title{
+    margin-left: 13cm;
+    font-size: 2cm;
+    color: chocolate;
+    text-decoration: underline;
+}
